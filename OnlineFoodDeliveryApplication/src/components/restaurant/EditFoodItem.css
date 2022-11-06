@@ -1,0 +1,7 @@
+.wholebodyFoodItem{
+	min-height: 100%;
+	flex-wrap: wrap;
+}
+.now{
+    width: 100%;
+}
